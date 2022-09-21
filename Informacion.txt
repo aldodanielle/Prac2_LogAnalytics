@@ -1,0 +1,8 @@
+Para subir archivos o agregar solo basta con darle 
+Add file y arrastra el archivo y lo subinimos con  su
+repectivo commit 
+
+Y tambien en Add File tambien se pueder crear archivos estos solo 
+son 2 tipos de archivos 
+1. de  tipo texto (.txt)
+2 de Codigo 
